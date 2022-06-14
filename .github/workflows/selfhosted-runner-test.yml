@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env:
-  ARM_SUBSCRIPTION_ID: xxxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxx
+  ARM_SUBSCRIPTION_ID: 95b44dd6-5808-485e-9f1a-923eaeef3b37
   ARM_USE_MSI: true
 
 jobs:
